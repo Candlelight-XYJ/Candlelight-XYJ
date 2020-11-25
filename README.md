@@ -2,7 +2,10 @@
 
 This is Yujia 😊
 
-My research interests are system biology and data visualization. My goal is to integrate these multi-omics data and construct interactions between entries, using math and computational method to explore the disease-associated molecular mechanism. By using visualize analysis method, the big biological data will tell us a fantastic story. 📚
+- 🌱 My research interests are system biology and data visualization. 
+- 😄 My goal is to integrate these multi-omics data and construct interactions between entries, 
+- 🔭 And using math and computational method to explore the disease-associated molecular mechanism. 
+- 📚 By using visualize analysis method, the big biological data will tell us a fantastic story. 
 
 
 <!--
