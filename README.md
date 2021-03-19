@@ -3,7 +3,7 @@
 This is Yujia 😊
 
 - 🌱 My research interests are system biology and data visualization (Especially on Single-cell omics). 
-- 😄 My goal is to integrate these multi-omics data and construct interactions between entities.
+- 😄 My goal is to integrate these multi-omics data and construct interactions between entities (eg. Network).
 - 📚 By using visualize analysis method, the big biological data will tell us a fantastic story. 
 
 
